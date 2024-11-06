@@ -1,5 +1,5 @@
 import Image from "next/image";
-import nextjs15 from "../../../public/nextjs15.avif"
+import nextjs15 from "../../../public/picture.png"
 
 
 
