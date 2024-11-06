@@ -4,7 +4,7 @@ const Contact = () =>{
                <div className="mt-16">
                    <h1 className="text-center mt-16 font-bold text-5xl">Contact us</h1>
                    <p className="text-center mt-16 w-[300px]lg:text-center lg:mt-16 ">We would love to hear from you! Whether you have a question, feedback, or need support, feel free to reach out. Our team is here to help.</p>
-                    <div className="mt-16 bg-blue-100 mx-auto max-w-lg  lg:max-w-3xl  py-5">
+                    <div className="mt-16 bg-blue-100 mx-auto max-w-7xl  lg:max-w-3xl  py-5">
                    <form className="mx-8 mt-3" >
                       
                       <label htmlFor="name" className="text-lg ">Name:</label><br></br>
